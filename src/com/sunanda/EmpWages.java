@@ -1,7 +1,7 @@
 package com.sunanda;
 
 import java.lang.invoke.SwitchPoint;
-
+//Solving using switch case
 public class EmpWages {
     public static void main(String[] args) {
 
